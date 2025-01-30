@@ -1,7 +1,7 @@
 import subprocess
 
 # Your target
-target = 'youtube.com'
+target = 'example.com'
 
 def bug_hunter(comm):
     try:
